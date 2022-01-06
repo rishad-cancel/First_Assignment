@@ -1,0 +1,98 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.global-style {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.half-width img {
+    width: 40%;
+}
+
+.border-slice {
+    border-left: 5px solid red;
+    margin-top: 15%;
+    border-radius: 2px;
+}
+
+.border-slice h1 {
+    padding-left: 10px;
+}
+
+.heading-color {
+    color: orangered;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.only-pad {
+    padding-bottom: 20px;
+}
+
+.about-us {
+    padding-top: 20px;
+}
+
+.mission {
+    text-align: center;
+    padding-top: 2%;
+}
+
+.quarter-width {
+    width: 33%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 5px 10px 40px white;
+    border-radius: 15px;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.quarter-width img {
+    width: 30%;
+}
+
+.section-margin {
+    margin-bottom: 30px;
+}
+
+.first-color {
+    background-color: #F5E7BC;
+}
+
+.second-color {
+    background-color: #7DC9F2;
+}
+
+.third-color {
+    background-color: #eeffee;
+}
+
+.list-buttons {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 2px 2px;
+    margin: 0 10px;
+}
+
+#footer-misc {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
